@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creats a dirrectory called .git to store metadata about the directory it is in. You need to run init so you can start making commits to track your files!
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging are is the list of files you are working on, and are the ones that are added in a commit. It gives you more control. You like control, thats why you are a cs major.
