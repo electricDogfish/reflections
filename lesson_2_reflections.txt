@@ -5,3 +5,21 @@ It creats a dirrectory called .git to store metadata about the directory it is i
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging are is the list of files you are working on, and are the ones that are added in a commit. It gives you more control. You like control, thats why you are a cs major.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+Checking for changes that you may have forgoten about before you commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Trying something new in a controled inviorment.
+
+How do the diagrams help you visualize the branch structure?
+They help you see the reletionship between different commits, branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It lets our project have the fetures from both branches. We draw them like that becuse thats what they do.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Gits automatic merging could breaksomething
+but it can save time. 
+You can find out that it broke something reletivly quickly.
